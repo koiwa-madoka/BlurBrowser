@@ -1,0 +1,23 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    width: 960px;
+    height: 1200px;
+  }
+  
+  #box1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 100px 100px 100px auto;
+    float: left;
+    filter: blur(0px);
+  }
+  
+  #box2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 100px auto;
+    float: left;
+  }
